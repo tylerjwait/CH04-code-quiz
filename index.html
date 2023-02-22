@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tyler's Code Quiz Mini Game</title>
+    <link rel="stylesheet" href="./Assets/CSS/style.css">
+</head>
+
+<body>
+    <header>
+        <a  href="./highscores.html">
+            <button class="HS-link">View Highscores</button>
+        </a>
+        <div class="timer">Time left: 60</div>
+    </header>
+    <container class="quiz-area">
+        <h1 id="question-line">
+            <!-- title for game below -->
+            Welcome to Tyler's Code Quiz Mini Game!
+            <hr>
+        </h1>
+        <p id="rules">  <!-- opening message before game starts -->
+        Put your coding knowledge to the test with this mini game! If you answer incorrectly, 10 SECONDS will be DEDUCTED from the timer. 
+
+        <br>May the odds be forever in your favor.</br>
+        </p>
+        <button id="start-button">START GAME</button>
+        <div class="options">
+            <ul class="options-list">
+            </ul>
+        </div>
+        <form class="highscore-submit"></form>
+    </container>
+</body>
+    <script src="./Assets/JS/script.js"></script>
+</html>
