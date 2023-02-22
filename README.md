@@ -33,4 +33,4 @@ THEN I can save my initials and my score ✅
 🆘🆘🆘 GITHUB REPO ' https://github.com/tylerjwait/CH04-code-quiz ' 🆘🆘🆘
 
 🆘🆘🆘 SCREENSHOT OF DEPLOYED APP 🆘🆘🆘
-![Screenshot of deployed app](/IMAGES/screenshot.png"Tyler's Code Quiz Mini Game")
+![Screenshot of deployed app](https://raw.githubusercontent.com/tylerjwait/CH04-code-quiz/main/IMAGES/screenshot.png)
